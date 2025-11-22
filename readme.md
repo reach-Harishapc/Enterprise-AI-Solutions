@@ -1,3 +1,9 @@
+**Demo**
+
+https://github.com/reach-Harishapc/AI-Agent/blob/main/real_estate/demo.png
+
+
+
 **AI Real Estate Agent**
 Problem Statement
 The traditional real estate search process is time-consuming and often overwhelming for buyers. Agents spend a significant amount of time on low-value tasks like initial lead qualification and basic property filtering, limiting their capacity to focus on closing deals. Buyers face delays in getting responses and struggle to find properties that truly match their nuanced preferences.
