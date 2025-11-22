@@ -26,9 +26,9 @@ This repository serves as the central hub for a collection of AI-powered agents 
 
 | Agent | Description | Tech Highlights | Repository |
 |-------|-------------|-----------------|------------|
-| **Property Recommendation** | Personalized property matching using collaborative filtering | ML-based matching, 15 sample properties | [View Repo](https://github.com/reach-Harishapc/real-estate-recommendation-agent) |
+| **Property Recommendation** | Personalized property matching using collaborative filtering | ML-based matching, 15 sample properties | [View Repo](https://github.com/reach-Harishapc/AI-Real-Estate-Agent) |
 | **Document Processing** | Automated contract analysis & compliance checking | OCR simulation, clause extraction | [View Repo](https://github.com/reach-Harishapc/Document-Processing-Agent) |
-| **Lead Qualification** | Intelligent lead scoring & prioritization | BANT framework, 0-100 scoring | [View Repo](https://github.com/reach-Harishapc/Lead-Qualification-Agent) |
+| **Lead Qualification** | Intelligent lead scoring & prioritization | BANT framework, 0-100 scoring | [View Repo](https://github.com/reach-Harishapc/real_estate_lead_qualifier) |
 | **Property Valuation** | AI-powered property price estimation | Comparative analysis, market trends | [View Repo](https://github.com/reach-Harishapc/Property-Valuation-Agent) |
 | **Complaint Management** | Automated ticket routing & resolution tracking | Priority classification, SLA monitoring | [View Repo](https://github.com/reach-Harishapc/Complaint-Management-Agent) |
 
