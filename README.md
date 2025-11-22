@@ -185,7 +185,7 @@ Each individual agent repository contains its own license. Please refer to the s
 
 ## 👥 Author
 
-**Harish APC**
+**Harisha P C**
 
 - GitHub: [@reach-Harishapc](https://github.com/reach-Harishapc)
 
