@@ -22,7 +22,7 @@ This repository serves as the central hub for a collection of AI-powered agents 
 
 ## 🏗️ Domains & Agents
 
-### 🏠 Real Estate (5 Agents)
+### 🏠 Real Estate 
 
 | Agent | Description | Tech Highlights | Repository |
 |-------|-------------|-----------------|------------|
@@ -34,7 +34,7 @@ This repository serves as the central hub for a collection of AI-powered agents 
 
 ---
 
-### 🏭 Manufacturing (5 Agents)
+### 🏭 Manufacturing 
 
 | Agent | Description | Tech Highlights | Repository |
 |-------|-------------|-----------------|------------|
@@ -46,7 +46,7 @@ This repository serves as the central hub for a collection of AI-powered agents 
 
 ---
 
-### 🏥 Healthcare (5 Agents)
+### 🏥 Healthcare 
 
 | Agent | Description | Tech Highlights | Repository |
 |-------|-------------|-----------------|------------|
@@ -58,7 +58,7 @@ This repository serves as the central hub for a collection of AI-powered agents 
 
 ---
 
-### 💰 Finance & Banking (5 Agents)
+### 💰 Finance & Banking
 
 | Agent | Description | Tech Highlights | Repository |
 |-------|-------------|-----------------|------------|
@@ -70,7 +70,7 @@ This repository serves as the central hub for a collection of AI-powered agents 
 
 ---
 
-### 🛒 Retail & E-commerce (5 Agents)
+### 🛒 Retail & E-commerce
 
 | Agent | Description | Tech Highlights | Repository |
 |-------|-------------|-----------------|------------|
