@@ -1,4 +1,4 @@
-# 🤖 AI Agent Solutions Hub
+# 🤖 Enterprise AI Solutions
 
 > **A comprehensive collection of 25+ production-ready AI agents across 5 major industry domains**
 
@@ -26,8 +26,8 @@ This repository serves as the central hub for a collection of AI-powered agents 
 
 | Agent | Description | Tech Highlights | Repository |
 |-------|-------------|-----------------|------------|
-| **Property Recommendation** | Personalized property matching using collaborative filtering | ML-based matching, 15 sample properties | [View Repo](https://github.com/reach-Harishapc/AI-Real-Estate-Agent) |
-| **Document Processing** | Automated contract analysis & compliance checking | OCR simulation, clause extraction | [View Repo](https://github.com/reach-Harishapc/Document-Processing-Agent) |
+| **Property Recommendation** | Personalized property matching using collaborative filtering | ML-based matching, 15 sample properties | [View Repo](https://github.com/reach-Harishapc/AI-Agent) |
+| **Document Processing** | Automated contract analysis & compliance checking | OCR simulation, clause extraction | [View Repo](https://github.com/reach-Harishapc/ai-real-estate-doc-handler) |
 | **Lead Qualification** | Intelligent lead scoring & prioritization | BANT framework, 0-100 scoring | [View Repo](https://github.com/reach-Harishapc/real_estate_lead_qualifier) |
 | **Property Valuation** | AI-powered property price estimation | Comparative analysis, market trends | [View Repo](https://github.com/reach-Harishapc/Property-Valuation-Agent) |
 | **Complaint Management** | Automated ticket routing & resolution tracking | Priority classification, SLA monitoring | [View Repo](https://github.com/reach-Harishapc/Complaint-Management-Agent) |
@@ -38,10 +38,10 @@ This repository serves as the central hub for a collection of AI-powered agents 
 
 | Agent | Description | Tech Highlights | Repository |
 |-------|-------------|-----------------|------------|
-| **Supply Chain Optimization** | Demand forecasting & inventory optimization | ML forecasting, EOQ calculations | [View Repo](https://github.com/reach-Harishapc/Supply-Chain-Optimization-Agent) |
+| **Supply Chain Optimization** | Demand forecasting & inventory optimization | ML forecasting, EOQ calculations | [View Repo](https://github.com/reach-Harishapc/Supply-Chain-Forecasting-Agent) |
 | **Quality Inspection** | Automated defect detection & quality scoring | Image analysis simulation, pass/fail logic | [View Repo](https://github.com/reach-Harishapc/Quality-Inspection-Agent) |
 | **Anomaly Detection** | Real-time equipment monitoring & fault prediction | Statistical analysis, threshold detection | [View Repo](https://github.com/reach-Harishapc/Anomaly-Detection-Agent) |
-| **Workflow Automation** | Production scheduling & task optimization | Priority-based scheduling, bottleneck detection | [View Repo](https://github.com/reach-Harishapc/Workflow-Automation-Agent) |
+| **Workflow Automation** | Production scheduling & task optimization | Priority-based scheduling, bottleneck detection | [View Repo](https://github.com/reach-Harishapc/Workflow-Optimization-Agent) |
 | **Predictive Maintenance** | Equipment failure prediction & maintenance scheduling | RUL estimation, MTBF/MTTR tracking | [View Repo](https://github.com/reach-Harishapc/Predictive-Maintenance-Agent) |
 
 ---
@@ -50,11 +50,11 @@ This repository serves as the central hub for a collection of AI-powered agents 
 
 | Agent | Description | Tech Highlights | Repository |
 |-------|-------------|-----------------|------------|
-| **Patient Scheduling** | Intelligent appointment booking & optimization | Conflict detection, priority scheduling | [View Repo](https://github.com/reach-Harishapc/Patient-Scheduling-Agent) |
+| **Patient Scheduling** | Intelligent appointment booking & optimization | Conflict detection, priority scheduling | [View Repo](https://github.com/reach-Harishapc/Patient-Scheduling-Triage-Agent) |
 | **Medical Report Analysis** | Automated report parsing & insights extraction | NLP for medical terms, risk flagging | [View Repo](https://github.com/reach-Harishapc/Medical-Report-Analysis-Agent) |
-| **Prescription Management** | Drug interaction checking & dosage validation | Drug database, interaction alerts | [View Repo](https://github.com/reach-Harishapc/Prescription-Management-Agent) |
+| **Prescription Management** | Drug interaction checking & dosage validation | Drug database, interaction alerts | [View Repo](https://github.com/reach-Harishapc/Prescription-Management-Agent-) |
 | **Health Monitoring & Alerts** | Vital signs tracking & anomaly detection | Threshold-based alerts, trend analysis | [View Repo](https://github.com/reach-Harishapc/Health-Monitoring-Alerts-Agent) |
-| **Insurance Claims Processing** | Automated claims validation & approval | Eligibility checking, fraud detection | [View Repo](https://github.com/reach-Harishapc/Insurance-Claims-Processing-Agent) |
+| **Insurance Claims Processing** | Automated claims validation & approval | Eligibility checking, fraud detection | [View Repo](https://github.com/reach-Harishapc/Insurance-Claim-Processing-Agent) |
 
 ---
 
@@ -64,7 +64,7 @@ This repository serves as the central hub for a collection of AI-powered agents 
 |-------|-------------|-----------------|------------|
 | **Fraud Detection** | Real-time transaction monitoring & fraud alerts | Pattern detection, risk scoring | [View Repo](https://github.com/reach-Harishapc/Fraud-Detection-Agent) |
 | **Loan Application Processing** | Automated credit assessment & approval | FICO-style scoring, DTI analysis | [View Repo](https://github.com/reach-Harishapc/Loan-Application-Processing-Agent) |
-| **Portfolio Advisory** | Investment recommendations & rebalancing | Risk profiling, asset allocation | [View Repo](https://github.com/reach-Harishapc/Portfolio-Advisory-Agent) |
+| **Portfolio Advisory** | Investment recommendations & rebalancing | Risk profiling, asset allocation | [View Repo](https://github.com/reach-Harishapc/Investment-Portfolio-Advisor-Agent) |
 | **Customer Support Chatbot** | AI-powered financial query resolution | Intent classification, sentiment analysis | [View Repo](https://github.com/reach-Harishapc/Customer-Support-Chatbot-Agent) |
 | **Compliance Monitoring** | Regulatory compliance checking & reporting | AML rules, KYC verification | [View Repo](https://github.com/reach-Harishapc/Compliance-Monitoring-Agent) |
 
