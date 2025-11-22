@@ -1,4 +1,4 @@
-```markdown
+
 **Demo**
 
 ![AI Real Estate Agent demo](./real_estate/demo.png)
@@ -36,6 +36,4 @@ Customer Satisfaction: Improved user experience through conversational interacti
 Data Insights: Collection of structured data on user preferences (e.g., "users in NY are asking for gyms more than parking") to inform inventory acquisition.
 Brand Image: Positioning the agency as a tech-forward, modern service provider.
 Strategic Alignment
-This initiative aligns with the goal of automating high-volume, repetitive tasks in the Real Estate sector (as identified in the project README), allowing human agents to focus on negotiation, viewing[...]
-
-```
+This initiative aligns with the goal of automating high-volume, repetitive tasks in the Real Estate sector (as identified in the project README), allowing human agents to focus on negotiation, viewing
