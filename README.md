@@ -18,6 +18,7 @@ This repository serves as the central hub for a collection of AI-powered agents 
 - **SQLite Databases** for data persistence
 - **Comprehensive Documentation** for each agent
 
+Buy Me a Coffe (https://buymeacoffee.com/reachharist)
 ---
 
 ## 🏗️ Domains & Agents
@@ -188,7 +189,7 @@ Each individual agent repository contains its own license. Please refer to the s
 **Harisha P C**
 
 - GitHub: [@reach-Harishapc](https://github.com/reach-Harishapc)
-
+--Buy Me a Coffe (https://buymeacoffee.com/reachharist)
 ---
 
 ## 🙏 Acknowledgments
