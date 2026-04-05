@@ -1,4 +1,4 @@
-# 🤖 Enterprise AI Solutions
+# Enterprise AI Solutions
 
 > **A comprehensive collection of 25+ production-ready AI agents across 5 major industry domains**
 
